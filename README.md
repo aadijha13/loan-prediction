@@ -1,10 +1,7 @@
 # loan-prediction
-Perfect Aadi!  
-Ye raha ek **clean, professional style ka** `README.md` draft jo tu seedha GitHub me daal sakta hai:
-
 ---
 
- Loan Status Prediction
+Loan Status Prediction
 
 A Machine Learning project to predict whether a loan application will be **Approved** or **Rejected**, based on applicant details.  
 This project uses a trained classification model and provides a simple web interface for users to check their loan status.
